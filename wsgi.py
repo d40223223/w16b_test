@@ -85,7 +85,7 @@ class Hello(object):
     #@+node:2015.20150330144929.1713: *3* spur
     @cherrypy.expose
     # N 為齒數, M 為模數, P 為壓力角
-    def spur(self, N=40223223, M=5, P=15):
+    def spur(self, N=40223218, M=5, P=15):
         outstring = '''
     <!DOCTYPE html> 
     <html>
